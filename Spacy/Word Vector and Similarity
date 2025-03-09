@@ -1,0 +1,4 @@
+word1 = nlp("Jawaria")
+word2 = nlp("Jawaria")
+similairty = word1.similarity(word2)
+print("Similairity:" ,similarity)
