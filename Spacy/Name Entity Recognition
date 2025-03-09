@@ -1,0 +1,2 @@
+for en in doc.ents:
+  print(en.text, en.label_)
