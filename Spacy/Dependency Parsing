@@ -1,0 +1,2 @@
+for token in doc:
+  print (token.text, token.dep_, token.head.text, token.head.pos_)
